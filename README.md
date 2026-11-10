@@ -85,3 +85,9 @@ Some analytical measures in this project use equal-weighted category averages fo
 **Project Type:** Economic Data Analysis | Excel Case Study
 
 **Author:** Aditya Raj
+
+## Project Screenshots
+
+Explore the charts, graphs, and visualisations created for all five problem statements.
+
+📁 [View All Project Screenshots](screenshots/)
